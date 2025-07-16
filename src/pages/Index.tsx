@@ -1,21 +1,7 @@
-import Navigation from "@/components/Navigation";
-import HeroSection from "@/components/HeroSection";
-import LeistungenSection from "@/components/LeistungenSection";
-import ReviewsSection from "@/components/ReviewsSection";
-import UnternehmenSection from "@/components/UnternehmenSection";
-import KontaktSection from "@/components/KontaktSection";
-import Footer from "@/components/Footer";
-
 const Index = () => {
   return (
-    <div className="min-h-screen">
-      <Navigation />
-      <HeroSection />
-      <LeistungenSection />
-      <ReviewsSection />
-      <UnternehmenSection />
-      <KontaktSection />
-      <Footer />
+    <div className="min-h-screen bg-green-500 flex items-center justify-center">
+      <h1 className="text-4xl font-bold text-white">Test</h1>
     </div>
   );
 };
