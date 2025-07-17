@@ -86,7 +86,7 @@ const KontaktSection = () => {
                   </div>
                   <div className="flex justify-between">
                     <span>Freitag:</span>
-                    <span>8:00 - 15:00</span>
+                    <span>8:00 - 16:00</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Samstag - Sonntag:</span>
